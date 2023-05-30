@@ -11,5 +11,12 @@
 <img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/3a705fc2-a555-4cfa-9e7d-d65287daec81"/>
 <h5>Room page</h5>
 <img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/213aafa2-4dc9-41ac-8a4c-0b153f20e9f4"/>
+<h5>During call between 2 devices(mobile and desktop)</h5>
+<ul><li>Device 1</li></ul>
+<img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/3812745e-d0e5-4550-88e2-293476a8bd7d"/>
+<ul><li>Device 2</li></ul>
+<img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/3bb3168c-992f-477b-a224-d0faed696274"/>
+
+
 
 
