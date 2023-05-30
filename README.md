@@ -16,6 +16,20 @@
 <img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/3812745e-d0e5-4550-88e2-293476a8bd7d"/>
 <ul><li>Device 2</li></ul>
 <img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/3bb3168c-992f-477b-a224-d0faed696274"/>
+<hr style="border: 2x solid">
+<h3>installation and setup</h3>
+
+**1.** Install Requirements
+
+```terminal
+pip install requirements.txt
+```
+
+**2.** Run server
+
+```terminal
+python manage.py runserver
+```
 
 
 
