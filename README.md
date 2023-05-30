@@ -8,8 +8,8 @@
 <hr style="border: 2x solid">
 <h3>Preview</h3>
 <h5>Lobby Page</h5>
-![image](https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/3a705fc2-a555-4cfa-9e7d-d65287daec81)
+<img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/3a705fc2-a555-4cfa-9e7d-d65287daec81"/>
 <h5>Room page</h5>
-![image](https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/213aafa2-4dc9-41ac-8a4c-0b153f20e9f4)
+<img src="https://github.com/Narala-Siddhartha/Video-Chat-Application/assets/81971649/213aafa2-4dc9-41ac-8a4c-0b153f20e9f4"/>
 
 
